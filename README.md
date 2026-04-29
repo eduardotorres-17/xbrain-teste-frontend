@@ -2,6 +2,11 @@
 
 Este projeto é a resolução de um teste técnico para a vaga de Desenvolvedor Frontend. O objetivo foi construir o fluxo de compras de um e-commerce (Listagem de Produtos, Formulário de Cliente e Checkout), garantindo fidelidade visual ao design proposto, arquitetura escalável e gerenciamento de estado global.
 
+## 🌍 Deploy 
+
+Acesse a aplicação rodando em produção:  
+🔗 **[Clique aqui para ver o projeto no ar](https://xbrain-teste-frontend.vercel.app/)**
+
 ## 🚀 Tecnologias Utilizadas
 
 Este projeto foi construído respeitando estritamente os requisitos técnicos da vaga:

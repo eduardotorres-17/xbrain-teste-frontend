@@ -24,7 +24,7 @@ Este projeto foi construído respeitando estritamente os requisitos técnicos da
 
 **1. Clone o repositório**
 ```bash
-git clone [https://github.com/eduardotorres-17/xbrain-teste-frontend.git](https://github.com/eduardotorres-17/xbrain-teste-frontend.git)
+git clone https://github.com/eduardotorres-17/xbrain-teste-frontend.git
 ```
 
 **2. Acesse a pasta do projeto**

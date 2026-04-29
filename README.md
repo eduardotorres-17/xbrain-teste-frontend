@@ -7,6 +7,7 @@ Este projeto é a resolução de um teste técnico para a vaga de Desenvolvedor 
 Acesse a aplicação rodando em produção:  
 🔗 **[Clique aqui para ver o projeto no ar](https://xbrain-teste-frontend.vercel.app/)**
 
+
 ## 🚀 Tecnologias Utilizadas
 
 Este projeto foi construído respeitando estritamente os requisitos técnicos da vaga:

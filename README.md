@@ -23,27 +23,27 @@ Este projeto foi construído respeitando estritamente os requisitos técnicos da
 ## 🛠️ Como rodar o projeto localmente
 
 **1. Clone o repositório**
-\`\`\`bash
-git clone https://github.com/eduardotorres-17/xbrain-teste-frontend.git
-\`\`\`
+```bash
+git clone [https://github.com/eduardotorres-17/xbrain-teste-frontend.git](https://github.com/eduardotorres-17/xbrain-teste-frontend.git)
+```
 
 **2. Acesse a pasta do projeto**
-\`\`\`bash
+```bash
 cd xbrain-teste-frontend
-\`\`\`
+```
 
 **3. Instale as dependências**
-\`\`\`bash
+```bash
 npm install
 # ou
 yarn install
-\`\`\`
+```
 
 **4. Inicie o servidor de desenvolvimento**
-\`\`\`bash
+```bash
 npm run dev
 # ou
 yarn start
-\`\`\`
+```
 
 O projeto estará rodando em `http://localhost:5173`.
